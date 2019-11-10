@@ -1,0 +1,43 @@
+R.D.Dowsing, V.J.Rayward-Smith and C.D.Walter
+A First Course in Formal Logic and its Application in Computer Science
+0632013087
+
+Cliff B.Jones
+Systematic Software Development using VDM
+0138807337
+
+J.Woodcock & M.Loomes
+Software Engineering Mathematics
+0273026739
+
+Daniel J.Velleman
+How To Prove IT: A Structured Approach
+0521675995
+
+Cliff B.Jones & R.C.Shaw
+Case Studies in Systematic Software Development
+0131160885
+
+J.M.Spivey
+The Z Notation: A Reference Manual
+0139785299
+
+Ian Hayes (ed.)
+Specification Case Studies
+0138325448
+
+Derek Andrews & DarrelInce
+Practical Formal Methods with VDM
+0077072146
+
+Deri Sheppard
+An Introducing to Formal Specification with Z and VDM
+0077079078
+
+Quentin Charatan and AaronKans
+Formal Software Development: From VDM to Java
+0333992814
+
+J.G.P.Barnes
+High Integrity Software: The SPARK Approach to Safety and Security
+0321199731
